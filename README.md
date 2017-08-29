@@ -1,2 +1,2 @@
 
-![mesebilisim](mese.svg)
+![mesebilisim](img/mese.svg)
