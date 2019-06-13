@@ -12,4 +12,4 @@ www.mesebilisim.com
 ![mesebilisim](img/mese-new-logo.svg)
 
 
-![mesebilisim](img/mese-new-logo.xcf)
+![mesebilisim](img/mese-bilisim-logo.png)
