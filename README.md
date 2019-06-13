@@ -20,3 +20,7 @@ www.mesebilisim.com
 
 
 ![mesebilisim](img/mese-bilisim-ltd-sti-2048x512.png)
+
+
+
+![mesebilisim](img/mese-bilisim-ltd-sti.png)
